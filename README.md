@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 **1. Project Overview**  
+## **1. Project Overview**  
 The transition from **fossil fuels** to **low or zero-carbon energy** is a major challenge for **clean energy industries**.  
 This project examines how **mineral demand** varies across industries using **linear regression, bootstrapping**, and **pairwise statistical tests** to provide robust insights into demand patterns.  
 
@@ -40,7 +40,7 @@ This project examines how **mineral demand** varies across industries using **li
 
 ---
 
-## 📌 **3. Key Findings & Visuals**  
+## **3. Key Findings & Visuals**  
 
 ### 🛠 **Key Results from Statistical Analysis**  
 📌 **Industry sector influences mineral demand significantly** (**p = 0.0395 < 0.05, F = 2.9391**).  
@@ -57,7 +57,7 @@ This project examines how **mineral demand** varies across industries using **li
 
 ---
 
-## 📌 **4. Technical Skills Demonstrated**  
+## **4. Technical Skills Demonstrated**  
 
 ### 🛠 **R Skills Applied**  
 ✔️ **Data Wrangling:** `dplyr`, `tidyverse`, `janitor`  
@@ -75,7 +75,7 @@ This project examines how **mineral demand** varies across industries using **li
 
 ---
 
-## 📌 **5. Next Steps!**  
+## **5. Next Steps!**  
 
 🔹 **Identify which minerals** each industry uses the most (e.g., **Copper, Selenium**) and compare the data to **global resource scarcity** and **mining burden/benefits**.  
 🔹 **Try out Bayesian methods** to quantify uncertainty in demand estimates.  
