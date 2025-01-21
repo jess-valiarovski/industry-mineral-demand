@@ -77,7 +77,7 @@ This project examines how **mineral demand** varies across industries using **li
 
 ## **5. Next Steps!**  
 
-🔹 **Identify which minerals** each industry uses the most (e.g., **Copper, Selenium**) and compare the data to **global resource scarcity** and **mining burden/benefits**.  
+🔹 **Identify which minerals** each industry uses the most (e.g., **Copper, Selenium**) and compare the data to **global resource scarcity** and **the mining benefits and risks/costs**.  
 🔹 **Try out Bayesian methods** to quantify uncertainty in demand estimates.  
 
 ---
