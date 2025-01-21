@@ -57,9 +57,8 @@ This project examines how **mineral demand** varies across industries using **li
 
 ---
 
-## **4. Technical Skills Demonstrated**  
+🛠️ **Technical Skills Demonstrated**
 
-### 🛠 **R Skills Applied**  
 - **Data Wrangling:** `dplyr`, `tidyverse`, `janitor`  
 - **Statistical Modeling:** `lm()`, `anova()`, `emmeans()`  
 - **Resampling Techniques:** `boot`, `infer`  
