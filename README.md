@@ -59,12 +59,12 @@ This project examines how **mineral demand** varies across industries using **li
 
 🛠️ **Technical Skills Demonstrated**
 
-- **Data Wrangling:** `dplyr`, `tidyverse`, `janitor`  
-- **Statistical Modeling:** `lm()`, `anova()`, `emmeans()`  
-- **Resampling Techniques:** `boot`, `infer`  
-- **Data Visualization:** `ggplot2`, **violin plots**, **bootstrapped CI**  
-- **Effect Size & Significance Testing:** **Cohen’s d**, **Holm’s correction**  
-- **Hypothesis Testing:** **Type II ANOVA, multiple comparisons**  
+✅ **Data Wrangling:** `dplyr`, `tidyverse`, `janitor`  
+✅ **Statistical Modeling:** `lm()`, `anova()`, `emmeans()`  
+✅ **Resampling Techniques:** `boot`, `infer`  
+✅ **Data Visualization:** `ggplot2`, **violin plots**, **bootstrapped CI**  
+✅ **Effect Size & Significance Testing:** **Cohen’s d**, **Holm’s correction**  
+✅ **Hypothesis Testing:** **Type II ANOVA, multiple comparisons**  
 
 ---
 
