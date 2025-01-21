@@ -12,7 +12,7 @@
 
 ## **1. Project Overview**  
 The transition from **fossil fuels** to **low or zero-carbon energy** is a major challenge for **clean energy industries**.  
-This project examines how **mineral demand** varies across industries using **linear regression, bootstrapping**, and **pairwise statistical tests** to provide robust insights into demand patterns.  
+This project examines how **mineral demand** varies across industries using **linear regression, bootstrapping**, and **pairwise statistical tests** to provide robust insights into demand patterns using **R-programming**.  
 
 ### 🔍 **Objectives**  
 - **Test Hypothesis:** Does mineral demand significantly differ across industries?  
