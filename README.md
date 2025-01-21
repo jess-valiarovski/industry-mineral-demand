@@ -15,9 +15,9 @@ The transition from **fossil fuels** to **low or zero-carbon energy** is a major
 This project examines how **mineral demand** varies across industries using **linear regression, bootstrapping**, and **pairwise statistical tests** to provide robust insights into demand patterns.  
 
 ### 🔍 **Objectives**  
- **Test Hypothesis:** Does mineral demand significantly differ across industries?  
- **Compare Statistical Methods:** Linear modeling vs. resampling techniques.  
- **Apply Statistical Modeling:** **ANOVA, bootstrapping, and multiple comparisons** to detect industry-specific trends.  
+- **Test Hypothesis:** Does mineral demand significantly differ across industries?  
+- **Compare Statistical Methods:** Linear modeling vs. resampling techniques.  
+- **Apply Statistical Modeling:** **ANOVA, bootstrapping, and multiple comparisons** to detect industry-specific trends.  
 
 ### 🔬 **Dataset Details**  
 - **Source:** International Energy Agency (IEA) Critical Minerals Survey 2023  
@@ -34,9 +34,9 @@ This project examines how **mineral demand** varies across industries using **li
 - **Effect Size Analysis:** Cohen’s d  
 
 ### 📊 **Data Visualization (`ggplot2`)**  
- Violin plots for demand distributions  
- Bootstrapped confidence intervals to highlight sampling variability  
- Pairwise comparisons with **Holm correction** to identify significant differences  
+- Violin plots for demand distributions  
+- Bootstrapped confidence intervals to highlight sampling variability  
+- Pairwise comparisons with **Holm correction** to identify significant differences  
 
 ---
 
@@ -60,12 +60,12 @@ This project examines how **mineral demand** varies across industries using **li
 ## **4. Technical Skills Demonstrated**  
 
 ### 🛠 **R Skills Applied**  
-**Data Wrangling:** `dplyr`, `tidyverse`, `janitor`  
-**Statistical Modeling:** `lm()`, `anova()`, `emmeans()`  
-**Resampling Techniques:** `boot`, `infer`  
-**Data Visualization:** `ggplot2`, **violin plots**, **bootstrapped CI**  
-**Effect Size & Significance Testing:** **Cohen’s d**, **Holm’s correction**  
-**Hypothesis Testing:** **Type II ANOVA, multiple comparisons**  
+- **Data Wrangling:** `dplyr`, `tidyverse`, `janitor`  
+- **Statistical Modeling:** `lm()`, `anova()`, `emmeans()`  
+- **Resampling Techniques:** `boot`, `infer`  
+- **Data Visualization:** `ggplot2`, **violin plots**, **bootstrapped CI**  
+- **Effect Size & Significance Testing:** **Cohen’s d**, **Holm’s correction**  
+- **Hypothesis Testing:** **Type II ANOVA, multiple comparisons**  
 
 ---
 
