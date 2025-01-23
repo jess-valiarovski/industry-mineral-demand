@@ -80,6 +80,3 @@ This project examines how **mineral demand** varies across industries using **li
 🔹 **Try out Bayesian methods** to quantify uncertainty in demand estimates.  
 
 ---
-
-👩‍💻 **Connect with Me!**  
-📬 Feel free to reach out for any questions, feedback, or collaborations.  
